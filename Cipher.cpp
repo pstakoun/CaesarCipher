@@ -3,7 +3,7 @@
 // Cipher
 //
 // This class prompts the user for a string and a key.
-// The given string is the encoded using the given key.
+// The given string is the encoded using the given key.f
 //
 
 #include <iostream>
